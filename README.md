@@ -66,6 +66,10 @@ pyngrok
    - After uploading, a data preview will be shown
 
 4. **Generating and Viewing Reports**
+   
+   *NOTE: You can preview the report just till an extent as certain functions doesn't work due to size of report and hosting, if you want 
+    view the full report then download using the download button below.*
+   
    - The application will automatically generate a detailed EDA report
    - Processing time varies depending on the size of your CSV file
    - The report will include:
@@ -78,7 +82,7 @@ pyngrok
      ![image](https://github.com/user-attachments/assets/769f96eb-29a6-4f10-8e98-da2142aa4cc1)
 
 
-5. **Downloading Reports**
+6. **Downloading Reports**
    - Once the report is generated, you can view it directly in the browser
    - Use the "Download Report" button to save the report as an HTML file
    - Downloaded reports can be viewed offline in any web browser
